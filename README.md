@@ -1,11 +1,14 @@
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=X-Mars&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Mars&layout=compact&text_color=daf7dc&bg_color=151515" />
+</div>
+
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=X-Mars&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 🤔 I’m like ChuNiuPi .  
-### 🤔 I’m like HeCha .  
-### 🤔 I’m like XieDaiMa .  
-### 🤔 Talk is cheap，give me money .   
+
+### 🤔 I’m like ChuNiuPi .   🤔 I’m like HeCha .  
+### 🤔 I’m like XieDaiMa .   🤔 Talk is cheap，give me money . 
 ### 🌹 I‘m ZuGuoDeHuaDuo .
 
 <!--
