@@ -1,6 +1,6 @@
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=X-Mars&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Mars&layout=compact&text_color=daf7dc&bg_color=151515" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Mars&layout=compact&text_color=718096&bg_color=ffffff" />
 </div>
 
 ### Hi there 👋
