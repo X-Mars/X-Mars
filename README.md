@@ -8,11 +8,10 @@
 
 ### Hi there 👋
 
-
-<!-- 
-### 🤔 I’m like ChuiNiuPi .   🤔 I’m like HeCha .  
-### 🤔 I’m like XieDaiMa .   🤔 Talk is cheap，give me money . 
-### 🌹 I‘m ZuGuoDeHuaDuo . -->
+### 🤔 I’m like ChuiNiuPi .     🤔 I’m like HeCha .
+### 🤔 I’m like XieDaiMa .      🤔 Talk is cheap，give me money .
+### 🌹 I’m ZuGuoDeHuaDuo .
+### 🤔 Kaide 1903 has the best Qingdao Beer and the best Band .
 
 <!--
 **X-Mars/X-Mars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
