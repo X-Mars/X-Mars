@@ -2,8 +2,8 @@
 
 ### 🤔 I like ChuiNiuPi .     🤔 I like HeCha .
 ### 🤔 I like XieDaiMa .      🤔 Talk is cheap，give me money .
-### 🌹 I ZuGuoDeHuaDuo .
-### 🤔 Kaide 1903 has the best Qingdao Beer and the best Band .
+### 🌹 I'm ZuGuoDeHuaDuo .
+### 🤔 Kaide 1903 have the best Qingdao Beer and the best Band .
 
 <div>
 <img src="https://github.com/X-Mars/X-Mars/blob/main/images/1.jpg" width="33.5%">
